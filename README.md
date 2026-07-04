@@ -1,3 +1,5 @@
+**🇧🇷 Português** · [🇺🇸 English](README.en.md)
+
 # 🧱 Oficina: Meu Primeiro Jogo no Roblox Studio
 
 > Roteiro completo de oficina para crianças criarem seu primeiro *obby* (percurso de obstáculos) no Roblox Studio — da primeira plataforma ao primeiro script em Luau.
