@@ -2,6 +2,8 @@
 
 # 🧱 Workshop: My First Game in Roblox Studio
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238307.svg)](https://doi.org/10.5281/zenodo.24238307)
+
 > A complete workshop script for children to create their first *obby* (obstacle course) in Roblox Studio — from the first platform to their first Luau script.
 
 **Author:** [Paula Peclat](https://github.com/paulapeclat) · [APedê Digital](https://paulapeclat.com.br)

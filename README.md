@@ -2,6 +2,8 @@
 
 # 🧱 Oficina: Meu Primeiro Jogo no Roblox Studio
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238307.svg)](https://doi.org/10.5281/zenodo.24238307)
+
 > Roteiro completo de oficina para crianças criarem seu primeiro *obby* (percurso de obstáculos) no Roblox Studio — da primeira plataforma ao primeiro script em Luau.
 
 **Autora:** [Paula Peclat](https://github.com/paulapeclat) · [APedê Digital](https://paulapeclat.com.br)
