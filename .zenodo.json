@@ -1,0 +1,30 @@
+{
+  "title": "Oficina: Meu Primeiro Jogo no Roblox Studio",
+  "upload_type": "lesson",
+  "description": "<p>Roteiro completo de oficina (2h30, 9 a 13 anos) em que crianças constroem seu primeiro obby no Roblox Studio, com seis scripts Luau comentados em português e uma roda de leitura crítica sobre quem decide e quem lucra nos jogos. Material bilíngue (português e inglês).</p>",
+  "creators": [
+    {
+      "name": "Peclat, Paula",
+      "affiliation": "Educação Tecnológica Paula Peclat",
+      "orcid": "0009-0008-6535-7090"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "por",
+  "keywords": [
+    "oficina",
+    "Roblox Studio",
+    "Luau",
+    "educação midiática",
+    "infância",
+    "game design",
+    "pensamento computacional"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/paulapeclat/primeiro-jogo-roblox",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -33,7 +33,11 @@ moeda.Touched:Connect(function(parte)
 		coletada = true -- trava ANTES de dar o ponto
 
 		-- Procura o placar criado pelo script 03 e soma 1.
-		jogador.leaderstats.Moedas.Value += 1
+		-- (Se o 03 ainda não foi colado, não há placar e nada acontece.)
+		local placar = jogador:FindFirstChild("leaderstats")
+		if placar then
+			placar.Moedas.Value += 1
+		end
 
 		-- DECISÃO DE DESIGN: e se a moeda escondida valesse 5?
 		-- Troque o 1 e veja o que acontece com o caminho que os
